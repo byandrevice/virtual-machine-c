@@ -16,8 +16,6 @@ instructions .
 - No dynamic memory allocation or pointer arithmetic .
 - Does not implement any VM instruction using a separate function .
 - Runs on Eustis .
-Class : COP 3402 - Systems Software - Fall 2025
-Instructor : Dr . Jie Lin
 Due Date : Friday , September 12 th , 2025
 */
 
